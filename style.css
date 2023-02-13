@@ -204,7 +204,10 @@ h5
 }
 @media (max-width:599px)
 {
-    
+   body 
+   {
+    height: 0;
+   } 
     main 
     {
         padding: 2em;
