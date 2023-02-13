@@ -222,7 +222,7 @@ h5
     }
     .stuff 
     { 
-        width: 95%;
+        width: 80%;
         display: flex;
         flex-direction: column;
     }
