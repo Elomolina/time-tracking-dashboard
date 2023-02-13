@@ -222,7 +222,7 @@ h5
     }
     .stuff 
     { 
-        width: 80%;
+        width: 90%;
         display: flex;
         flex-direction: column;
     }
@@ -237,7 +237,7 @@ h5
     }
     .reportFor 
     {
-        width: 95%;
+        width: 90%;
     }
     .top 
     {
