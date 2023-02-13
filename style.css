@@ -208,10 +208,9 @@ h5
     {
         overflow-x: hidden;
     }
-    
     main 
     {
-        
+        padding-bottom: 1em;
         width: 90%;
         height: 100%;
         overflow-x: hidden;
