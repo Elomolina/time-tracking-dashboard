@@ -204,6 +204,10 @@ h5
 }
 @media (max-width:599px)
 {
+    body 
+    {
+        overflow-x: hidden;
+    }
     
     main 
     {
